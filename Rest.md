@@ -1,13 +1,5 @@
 ### Rest api 테스트의 모든 것
 
-목차
-[1.Open API 란?](#Open-API-란?)
-[2. REST API 란?](####REST-API-란?)
-
-스펙기반 테스트 설계
-테스트 툴을 이용한 테스트 수행
-수행 사례와 빈발 결함
-
 > Open API 의 인기 → 거론 되는 기술이 REST이다. → 구글, 아마존, 네이버 모드가 Open API를 REST 방식으로 지원한다.
 
 #### Open API 란?
@@ -81,3 +73,15 @@ ___
 ![](https://image.slidesharecdn.com/restapi-160801072508/95/rest-api-16-1024.jpg?cb=1470036438)
 
 #### 스펙 기반의 테스트 접근(테스트 설계)
+![](https://image.slidesharecdn.com/restapi-160801072508/95/rest-api-18-638.jpg?cb=1470036438)
+
+![](https://image.slidesharecdn.com/restapi-160801072508/95/rest-api-20-638.jpg?cb=1470036438)
+
+![](https://image.slidesharecdn.com/restapi-160801072508/95/rest-api-21-638.jpg?cb=1470036438)
+
+![](https://image.slidesharecdn.com/restapi-160801072508/95/rest-api-26-638.jpg?cb=1470036438)
+
+![](https://image.slidesharecdn.com/restapi-160801072508/95/rest-api-27-638.jpg?cb=1470036438)
+
+#### 툴을 이용한 REST API 테스트 수행
+![](https://image.slidesharecdn.com/restapi-160801072508/95/rest-api-32-638.jpg?cb=1470036438)
