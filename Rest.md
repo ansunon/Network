@@ -1,4 +1,5 @@
 ### Rest api 테스트의 모든 것
+
 목차
 [1.Open API 란?](#Open-API-란?)
 [2. REST API 란?](####REST-API-란?)
@@ -66,3 +67,17 @@ ___
 ![](https://image.slidesharecdn.com/restapi-160801072508/95/rest-api-7-1024.jpg?cb=1470036438)
 
 ![](https://image.slidesharecdn.com/restapi-160801072508/95/rest-api-8-638.jpg?cb=1470036438)
+
+#### REST API의 설계와 스펙
+
+![](https://image.slidesharecdn.com/restapi-160801072508/95/rest-api-12-1024.jpg?cb=1470036438)
+
+![](https://image.slidesharecdn.com/restapi-160801072508/95/rest-api-13-1024.jpg?cb=1470036438)
+
+![](https://image.slidesharecdn.com/restapi-160801072508/95/rest-api-14-1024.jpg?cb=1470036438)
+
+![](https://image.slidesharecdn.com/restapi-160801072508/95/rest-api-15-1024.jpg?cb=1470036438)
+
+![](https://image.slidesharecdn.com/restapi-160801072508/95/rest-api-16-1024.jpg?cb=1470036438)
+
+#### 스펙 기반의 테스트 접근(테스트 설계)
