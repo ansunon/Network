@@ -1,8 +1,8 @@
 ### Rest api 테스트의 모든 것
 목차
 [1.Open API 란?](#Open-API-란?)
+[2. REST API 란?](####REST-API-란?)
 
-rest api의 이해
 스펙기반 테스트 설계
 테스트 툴을 이용한 테스트 수행
 수행 사례와 빈발 결함
